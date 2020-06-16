@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- **************注解：告知spring在创建容器时要扫描的包*************** -->
+<!--    <context:component-scan base-package="com.learn"></context:component-scan>-->
+
+    <!-- **************把对象的创建交给spring来管理*************** -->
+<!--    &lt;!&ndash; 配置Service &ndash;&gt;-->
+<!--    <bean id="accountService" class="com.learn.service.impl.AccountServiceImpl">-->
+<!--        &lt;!&ndash; 注入dao &ndash;&gt;-->
+<!--        &lt;!&ndash; accountService.setXxx() &ndash;&gt;-->
+<!--        <property name="accountDao" ref="accountDao"></property>-->
+<!--    </bean>-->
+
+<!--    &lt;!&ndash; 配置Dao对象 &ndash;&gt;-->
+<!--    <bean id="accountDao" class="com.learn.dao.impl.AccountDaoImpl">-->
+<!--        &lt;!&ndash; 注入QueryRunner &ndash;&gt;-->
+<!--        &lt;!&ndash; accountDao.setXxx() &ndash;&gt;-->
+<!--        <property name="runner" ref="runner"></property>-->
+<!--    </bean>-->
+
+    <!-- 配置QueryRunner对象,我们是单表,一条语句的CRUD操作,我们可以选择传入数据源|连接池 -->
+    <!-- 这里如果是单例的话,会出现线程干扰问题 -->
+<!--    <bean id="runner" class="org.apache.commons.dbutils.QueryRunner" scope="prototype">-->
+<!--        &lt;!&ndash; 注入数据源 &ndash;&gt;-->
+<!--        &lt;!&ndash; QueryRunner没有set方法,只能使用 构造函数注入  &ndash;&gt;-->
+<!--        &lt;!&ndash; new QueryRunner(ds) &ndash;&gt;-->
+<!--&lt;!&ndash;        <constructor-arg name="ds" ref="dataSource"></constructor-arg>&ndash;&gt;-->
+<!--    </bean>-->
+
+    <!-- 配置数据源 -->
+<!--    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">-->
+<!--        &lt;!&ndash; 注入 连接数据库的必备信息 &ndash;&gt;-->
+<!--        &lt;!&ndash; dataSource.setXxx() &ndash;&gt;-->
+<!--        <property name="driverClass" value="com.mysql.cj.jdbc.Driver"></property>-->
+<!--        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/db"></property>-->
+<!--        <property name="user" value="root"></property>-->
+<!--        <property name="password" value="xxxx"></property>-->
+<!--    </bean>-->
+
+</beans>

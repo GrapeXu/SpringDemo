@@ -1,0 +1,27 @@
+Spring入门
+    基于Spring的CRUD XML方式实现
+        service是在配置文件中注册的。获取service执行操作
+
+pom文件依赖：
+    ·spring-context
+    ·junit
+
+    ·mysql-connector-java
+    ·c3p0
+    ·commons-dbutils
+
+Spring使用：
+    ·配置：一般是注册bean到 IOC容器中
+        ·XML配置文件
+        或
+        ·@Configuration 配置类
+    ·使用：
+        ·获取context，即IOC容器
+        ·获取bean
+
+bean.xml：
+    ·accountService
+    ·accountDao
+    ·org.apache.commons.dbutils.QueryRunner
+    ·c3p0数据源
+

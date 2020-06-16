@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Spring000XMLCRUD/Spring000XMLCRUD.iml" filepath="$PROJECT_DIR$/../Spring000XMLCRUD/Spring000XMLCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring001XMLTrans/Spring001XMLTrans.iml" filepath="$PROJECT_DIR$/../Spring001XMLTrans/Spring001XMLTrans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring002XMLTransTx/Spring002XMLTransTx.iml" filepath="$PROJECT_DIR$/../Spring002XMLTransTx/Spring002XMLTransTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring003AnotationConfig/Spring003AnotationConfig.iml" filepath="$PROJECT_DIR$/../Spring003AnotationConfig/Spring003AnotationConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring004AnotationConfigs/Spring004AnotationConfigs.iml" filepath="$PROJECT_DIR$/../Spring004AnotationConfigs/Spring004AnotationConfigs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring101Proxy/Spring101Proxy.iml" filepath="$PROJECT_DIR$/../Spring101Proxy/Spring101Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring102XMLProxyTx/Spring102XMLProxyTx.iml" filepath="$PROJECT_DIR$/../Spring102XMLProxyTx/Spring102XMLProxyTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring201XMLAOP/Spring201XMLAOP.iml" filepath="$PROJECT_DIR$/../Spring201XMLAOP/Spring201XMLAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring202XMLAOP/Spring202XMLAOP.iml" filepath="$PROJECT_DIR$/../Spring202XMLAOP/Spring202XMLAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring203AnotationAOP/Spring203AnotationAOP.iml" filepath="$PROJECT_DIR$/../Spring203AnotationAOP/Spring203AnotationAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring301JdbcTemplate/Spring301JdbcTemplate.iml" filepath="$PROJECT_DIR$/../Spring301JdbcTemplate/Spring301JdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring302JdbcTemplateDaoCRUD/Spring302JdbcTemplateDaoCRUD.iml" filepath="$PROJECT_DIR$/../Spring302JdbcTemplateDaoCRUD/Spring302JdbcTemplateDaoCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring303JdbcTemplateDaoSupport/Spring303JdbcTemplateDaoSupport.iml" filepath="$PROJECT_DIR$/../Spring303JdbcTemplateDaoSupport/Spring303JdbcTemplateDaoSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring401XmlAopTx/Spring401XMLAOPTx.iml" filepath="$PROJECT_DIR$/../Spring401XmlAopTx/Spring401XMLAOPTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring402AnotationAopTx/Spring402AnotationAOPTx.iml" filepath="$PROJECT_DIR$/../Spring402AnotationAopTx/Spring402AnotationAOPTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring501XMLAPITx/Spring501XMLAPITx.iml" filepath="$PROJECT_DIR$/../Spring501XMLAPITx/Spring501XMLAPITx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring502XMLAPITx1/Spring502XMLAPITx1.iml" filepath="$PROJECT_DIR$/../Spring502XMLAPITx1/Spring502XMLAPITx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring503AnoAPITx/Spring503AnoAPITx.iml" filepath="$PROJECT_DIR$/../Spring503AnoAPITx/Spring503AnoAPITx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring504AnoAPITx2/Spring504AnoAPITx2.iml" filepath="$PROJECT_DIR$/../Spring504AnoAPITx2/Spring504AnoAPITx2.iml" />
+    </modules>
+  </component>
+</project>

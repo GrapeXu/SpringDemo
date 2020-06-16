@@ -1,0 +1,21 @@
+
+Zsquid:S3518û"CMake sure this expression can't be zero before doing this division.(õ∫ù<
+P
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(√†ˆ
+P
+squid:S106è"9Replace this use of System.out or System.err by a logger.(π¿≥Ç
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(ü‚ß˜˛ˇˇˇˇ
+P
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(àÈˇõ
+Dsquid:S1481ë"-Remove this unused "accounts" local variable.(¡«·9
+=squid:S1481û"&Remove this unused "i" local variable.(õ∫ù<
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒßˆö
+csquid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+csquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+csquid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+csquid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+dsquid:S00112Ç"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+dsquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(“Ç“È¸ˇˇˇˇ
+Ssquid:S1854ë"<Remove this useless assignment to local variable "accounts".(¡«·9
+Lsquid:S1854û"5Remove this useless assignment to local variable "i".(õ∫ù<

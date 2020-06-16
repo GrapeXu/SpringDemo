@@ -1,0 +1,10 @@
+
+=squid:S1481"&Remove this unused "a" local variable.(ŠÒ‡ý
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(åðÃµýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Ê£Ãþÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëç©Šùÿÿÿÿ
+Zsquid:S3518"CMake sure this expression can't be zero before doing this division.(ŠÒ‡ý
+Lsquid:S1854"5Remove this useless assignment to local variable "a".(ŠÒ‡ý

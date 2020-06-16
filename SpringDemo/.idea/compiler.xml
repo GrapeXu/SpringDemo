@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring203AnotationAOP" />
+        <module name="Spring000XMLCRUD" />
+        <module name="Spring004AnotationConfigs" />
+        <module name="Spring101Proxy" />
+        <module name="Spring503AnoAPITx" />
+        <module name="Spring102XMLProxyTx" />
+        <module name="Spring301JdbcTemplate" />
+        <module name="Spring402AnotationAOPTx" />
+        <module name="Spring504AnoAPITx2" />
+        <module name="Spring303JdbcTemplateDaoSupport" />
+        <module name="Spring401XMLAOPTx" />
+        <module name="Spring302JdbcTemplateDaoCRUD" />
+        <module name="Spring201XMLAOP" />
+        <module name="Spring202XMLAOP" />
+        <module name="Spring003AnotationConfig" />
+        <module name="Spring501XMLAPITx" />
+        <module name="Spring002XMLTransTx" />
+        <module name="Spring502XMLAPITx1" />
+        <module name="Spring001XMLTrans" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring000XMLCRUD" target="1.5" />
+      <module name="Spring001XMLTrans" target="1.5" />
+      <module name="Spring002XMLTransTx" target="1.5" />
+      <module name="Spring003AnotationConfig" target="1.5" />
+      <module name="Spring004AnotationConfigs" target="1.5" />
+      <module name="Spring101Proxy" target="1.5" />
+      <module name="Spring102XMLProxyTx" target="1.5" />
+      <module name="Spring201XMLAOP" target="1.5" />
+      <module name="Spring202XMLAOP" target="1.5" />
+      <module name="Spring203AnotationAOP" target="1.5" />
+      <module name="Spring301JdbcTemplate" target="1.5" />
+      <module name="Spring302JdbcTemplateDaoCRUD" target="1.5" />
+      <module name="Spring303JdbcTemplateDaoSupport" target="1.5" />
+      <module name="Spring401XMLAOPTx" target="1.5" />
+      <module name="Spring402AnotationAOPTx" target="1.5" />
+      <module name="Spring501XMLAPITx" target="1.5" />
+      <module name="Spring502XMLAPITx1" target="1.5" />
+      <module name="Spring503AnoAPITx" target="1.5" />
+      <module name="Spring504AnoAPITx2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

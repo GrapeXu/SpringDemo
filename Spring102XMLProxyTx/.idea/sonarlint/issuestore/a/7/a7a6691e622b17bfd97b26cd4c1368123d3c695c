@@ -1,0 +1,5 @@
+
+Jsquid:S14812"-Remove this unused "accounts" local variable.(ÁÇá98â—£ïž.
+nsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Žòýžýÿÿÿÿ8ôý§ïž.
+Ysquid:S18542"<Remove this useless assignment to local variable "accounts".(ÁÇá98â—£ïž.
+jsquid:UselessImportCheck"?Remove this unused import 'com.learn.utils.TransactionManager'.(”ªûº8ò¡ïž.

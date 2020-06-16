@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- **************把对象的创建交给spring来管理*************** -->
+
+    <bean id="accountService" class="com.learn.service.impl.AccountServiceImpl">
+        <!-- 注入dao:accountService.setXxx() -->
+        <property name="accountDao" ref="accountDao"></property>
+        <!-- 注入事务管理器 -->
+        <property name="txManager" ref="txManager"></property>
+    </bean>
+
+    <!-- 配置Dao对象 -->
+    <bean id="accountDao" class="com.learn.dao.impl.AccountDaoImpl">
+        <!-- 注入QueryRunner:accountDao.setXxx() -->
+        <property name="runner" ref="runner"></property>
+        <!-- 注入ConnectionUtils:connectionUtils.setXxx() -->
+        <property name="connectionUtils" ref="connectionUtils"></property>
+    </bean>
+
+    <!-- 配置QueryRunner对象,我们是单表,一条语句的CRUD操作,我们可以选择传入数据源|连接池 -->
+    <!-- 这里如果是单例的话,会出现线程干扰问题 -->
+    <!-- 多例,在单线程中同样会是多例,这就是每次操作一个连接,无法进行事务管理 -->
+    <bean id="runner" class="org.apache.commons.dbutils.QueryRunner" scope="prototype">
+        <!-- 注入数据源 -->
+        <!-- QueryRunner没有set方法,只能使用 构造函数注入  -->
+        <!-- new QueryRunner(ds) -->
+<!--        <constructor-arg name="ds" ref="dataSource"></constructor-arg>-->
+    </bean>
+
+    <!-- 配置事务管理器 -->
+    <bean id="txManager" class="com.learn.utils.TransactionManager">
+        <!-- 注入ConnectionUtils:connectionUtils.setXxx() -->
+        <property name="connectionUtils" ref="connectionUtils"></property>
+    </bean>
+
+    <!-- 配置Connection的工具类 ConnectionUtils -->
+    <bean id="connectionUtils" class="com.learn.utils.ConnectionUtils">
+        <!-- 注入数据源:从QueryRunner转移到这里,QueryRunner要开事务就得无参构造 -->
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+
+    <!-- 配置数据源 -->
+    <bean id="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+        <!-- 注入 连接数据库的必备信息 -->
+        <!-- dataSource.setXxx() -->
+        <property name="driverClass" value="com.mysql.cj.jdbc.Driver"></property>
+        <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/db"></property>
+        <property name="user" value="root"></property>
+        <property name="password" value="xxxx"></property>
+    </bean>
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

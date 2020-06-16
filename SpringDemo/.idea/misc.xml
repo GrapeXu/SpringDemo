@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Spring000XMLCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring001XMLTrans/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring002XMLTransTx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring003AnotationConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring004AnotationConfigs/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring101proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring102XmlProxyTx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring201XmlAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring202XmlAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring203AnotationAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring301JdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring302JdbcTemplateDao1/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring303JdbcTemplateDaoSupport/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring401XmlAopTx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring402AnotationAopTx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring501XMLAPITx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring502XMLAPITx1/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring503AnoApiTx/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring504AnoApiTx2/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring302JdbcTemplateDaoCRUD/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

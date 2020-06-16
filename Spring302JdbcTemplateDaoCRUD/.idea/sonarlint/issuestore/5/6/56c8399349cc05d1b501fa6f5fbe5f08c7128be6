@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(òœËÇúÿÿÿÿ8©Æº˜Ÿ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âé’ùÿÿÿÿ8°ºè’Ÿ.
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µØîH
+ƒsquid:UselessImportCheck"XRemove this unused import 'org.springframework.jdbc.datasource.DriverManagerDataSource'.(æ´Ô½8ö¨ä’Ÿ.

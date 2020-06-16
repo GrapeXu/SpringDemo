@@ -1,0 +1,20 @@
+
+Zsquid:S1854‘"<Remove this useless assignment to local variable "accounts".(ÁÇá98§°½Ò.
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ˆéÿ›8˜ÀÌÒ.
+ksquid:S00112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñ²Ò.
+asquid:S3518"CMake sure this expression can't be zero before doing this division.(›º<8ò¯Ó.
+W
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(Ã ğö8µ¤ÙÒ.
+ksquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8µÕÒ.
+jsquid:S001122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Å›Ò.
+jsquid:S00112Z"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾úœÒ.
+Dsquid:S1481"&Remove this unused "i" local variable.(›º<8ò¯Ó.
+Ssquid:S1854"5Remove this useless assignment to local variable "i".(›º<8ò¯Ó.
+Ksquid:S1481‘"-Remove this unused "accounts" local variable.(ÁÇá98§°½Ò.
+\
+squid:S106§"9Replace this use of System.out or System.err by a logger.(Ÿâ§÷şÿÿÿÿ8Ò›²Ó.
+jsquid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ş‘Ò.
+jsquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ìßœÒ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹À³‚8èšËÒ.

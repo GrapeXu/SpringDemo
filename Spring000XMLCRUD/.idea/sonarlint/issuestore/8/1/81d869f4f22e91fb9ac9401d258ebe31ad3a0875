@@ -1,0 +1,19 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·™Þ¦ÿÿÿÿÿ8Ú„›äž.
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+csquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ìˆçøÿÿÿÿ8ÚÞ²äž.
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(­ìˆçøÿÿÿÿ8œã´äž.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(­ìˆçøÿÿÿÿ8œã´äž.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(­ìˆçøÿÿÿÿ8œã´äž.
+ksquid:S1192"HDefine a constant instead of duplicating this literal "runner=" 5 times.(­ìˆçøÿÿÿÿ8œã´äž.
+csquid:S00112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(­ìˆçøÿÿÿÿ8œã´äž.
+csquid:S00112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+csquid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ

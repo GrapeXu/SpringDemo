@@ -1,0 +1,10 @@
+
+Ysquid:S3518D"CMake sure this expression can't be zero before doing this division.(õ∫ù<
+Csquid:S14817"-Remove this unused "accounts" local variable.(¡«·9
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(∏áï©˛ˇˇˇˇ8ñüãõü.
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(§àÜò˚ˇˇˇˇ
+Ksquid:S1854D"5Remove this useless assignment to local variable "i".(õ∫ù<
+osquid:UselessImportCheck"?Remove this unused import 'org.aspectj.lang.annotation.Around'.(Ô∞å˛˚ˇˇˇˇ8‰Òäõü.
+<squid:S1481D"&Remove this unused "i" local variable.(õ∫ù<
+Rsquid:S18547"<Remove this useless assignment to local variable "accounts".(¡«·9

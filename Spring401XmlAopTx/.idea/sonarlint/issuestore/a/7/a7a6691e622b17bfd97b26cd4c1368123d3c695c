@@ -1,0 +1,8 @@
+
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¤ˆ†˜ûÿÿÿÿ8–âğšŸ.
+Csquid:S1481?"&Remove this unused "i" local variable.(›º<8ÜïšŸ.
+Csquid:S14812"-Remove this unused "accounts" local variable.(ÁÇá9
+Rsquid:S18542"<Remove this useless assignment to local variable "accounts".(ÁÇá9
+Rsquid:S1854?"5Remove this useless assignment to local variable "i".(›º<8ÜïšŸ.
+`squid:S3518?"CMake sure this expression can't be zero before doing this division.(›º<8ÜïšŸ.
