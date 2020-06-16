@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/../Spring503AnoApiTx/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring504AnoApiTx2/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring302JdbcTemplateDaoCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring005AnotationTx/pom.xml" />
       </list>
     </option>
   </component>

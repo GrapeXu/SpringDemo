@@ -6,23 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring005AnotationTx" />
         <module name="Spring203AnotationAOP" />
         <module name="Spring000XMLCRUD" />
         <module name="Spring004AnotationConfigs" />
         <module name="Spring101Proxy" />
         <module name="Spring503AnoAPITx" />
         <module name="Spring102XMLProxyTx" />
-        <module name="Spring301JdbcTemplate" />
+        <module name="Spring401XMLAOPTx" />
         <module name="Spring402AnotationAOPTx" />
+        <module name="Spring002XMLTransTx" />
         <module name="Spring504AnoAPITx2" />
         <module name="Spring303JdbcTemplateDaoSupport" />
-        <module name="Spring401XMLAOPTx" />
         <module name="Spring302JdbcTemplateDaoCRUD" />
-        <module name="Spring201XMLAOP" />
+        <module name="Spring301JdbcTemplate" />
         <module name="Spring202XMLAOP" />
         <module name="Spring003AnotationConfig" />
         <module name="Spring501XMLAPITx" />
-        <module name="Spring002XMLTransTx" />
+        <module name="Spring201XMLAOP" />
         <module name="Spring502XMLAPITx1" />
         <module name="Spring001XMLTrans" />
       </profile>
@@ -33,6 +34,7 @@
       <module name="Spring002XMLTransTx" target="1.5" />
       <module name="Spring003AnotationConfig" target="1.5" />
       <module name="Spring004AnotationConfigs" target="1.5" />
+      <module name="Spring005AnotationTx" target="1.5" />
       <module name="Spring101Proxy" target="1.5" />
       <module name="Spring102XMLProxyTx" target="1.5" />
       <module name="Spring201XMLAOP" target="1.5" />

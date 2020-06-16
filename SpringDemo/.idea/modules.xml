@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../Spring002XMLTransTx/Spring002XMLTransTx.iml" filepath="$PROJECT_DIR$/../Spring002XMLTransTx/Spring002XMLTransTx.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring003AnotationConfig/Spring003AnotationConfig.iml" filepath="$PROJECT_DIR$/../Spring003AnotationConfig/Spring003AnotationConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring004AnotationConfigs/Spring004AnotationConfigs.iml" filepath="$PROJECT_DIR$/../Spring004AnotationConfigs/Spring004AnotationConfigs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring005AnotationTx/Spring005AnotationTx.iml" filepath="$PROJECT_DIR$/../Spring005AnotationTx/Spring005AnotationTx.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring101Proxy/Spring101Proxy.iml" filepath="$PROJECT_DIR$/../Spring101Proxy/Spring101Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring102XMLProxyTx/Spring102XMLProxyTx.iml" filepath="$PROJECT_DIR$/../Spring102XMLProxyTx/Spring102XMLProxyTx.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Spring201XMLAOP/Spring201XMLAOP.iml" filepath="$PROJECT_DIR$/../Spring201XMLAOP/Spring201XMLAOP.iml" />
